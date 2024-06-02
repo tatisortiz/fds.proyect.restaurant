@@ -1,25 +1,39 @@
-Restaurant Taylor :
-Welcome to the Kyoto Ramen's website documentation. This website recreates a website of a ficticional restaurant. It's the 1st project of the GeeksHub Academy Fullstack Bootcamp, showing HTML and CSS skills.
+TAYLOR RESTAURANT
 
-Table of Contents 📂
+
+
+Welcome to Taylor's website documentation. This website recreates a fictional restaurant website. It's the first project from GeeksHub Academy's Fullstack Bootcamp, showcasing skills in HTML and CSS. I hope you enjoy it.
+
+
+
+
+Table of contents 📂
 Stack ⚓
 Features 👾
-Live Deployment 🌐
+Live implementation 🌐
 Author ✒️
-Acknowledgements 🎓
+Thanks 🎓
 Stack ⚓
-Static Badge Static Badge
+Static badge Static badge
+
+
+
 
 Features 👾
-Multi-page Website: The website consists of a series of html files linked together.
+Multi-page website: The website consists of a series of html files linked together.
 Responsive Design: The website adjusts to different screen sizes.
-Hover Funtionality: Buttons have hover functionality.
-Collapsable Navbar The navigation bar collapses into a button that opens in an offcanvas given a small enough screen size.
-Live Deployment 🌐
-Kyoto Ramen
+Scroll functionality: Buttons have scroll functionality.
+Collapsible Navigation Bar The navigation bar collapses into a button that opens off the canvas if the screen size is small enough.
+
+Webgrafia:
+se ha recopilado informacion de la siguentes paginas:
+https://getbootstrap.com/es
+https://www.volteretarestaurante.com/
+https://ladivavalencia.com/
+
 
 Author ✒️
-Ana Rius - student FSD
+Tatiana ortiz - FSD student
 GitHub
-Acknowledgements 🎓
-A big shoutout to the Geekshubs Academy for the opportunity to learn and grow as a developer.
+Thanks 🎓
+A big thank you to the Geekshubs Academy for the opportunity to learn and grow as a developer, every day you get better, thank you for the o
