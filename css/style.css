@@ -1,6 +1,8 @@
 body{
-    
-    background: white;
+
+
+    background-image: url(/img/copas.jpg);
+    background-color:white;
 }
 
 nav {
@@ -10,7 +12,13 @@ nav {
 .container-fluid p {
     font-size: 2.6rem;
     color:white;
-    position: absolute;
+    margin-top: 4em;
+  
+
+    position:relative; top:0px;
+    margin-left:0px;
+   margin-right:0px;
+
     display: flex;
     justify-content: center;
     align-items: center;
@@ -21,14 +29,40 @@ nav {
     text-shadow: 0 0 2em black;
 }
 
-.h3 {
-    background: black;
-    display: block;
+
+.h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aquamarine;
+}
+.titulo{
+    margin-bottom: 1em;
+    
+    
+   
+}
+
+
+.texto {
+    text-align: center;
+    background: rgb(245,225,206);
+    padding:10px 50px 20px;
+    height: 400px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+    
     font-size: 1.17em;
     margin-block-start: 1em;
     margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
+    margin-inline-start: 20px;
+    margin-inline-end: 4em;
+    margin-left: 22em;
+    
     font-weight: bold;
     unicode-bidi: isolate;
 }
@@ -38,14 +72,14 @@ nav {
     text-align: right;
     vertical-align: baseline;
     white-space: pre-line;
-    
+
 }
 
 .small-middle-container{
 	margin: auto;
 	width: 25%;
-   
-  
+   background-color: white;
+   padding: 10px 50px 20px;
 }
 
 
@@ -59,7 +93,7 @@ nav {
 
 
 .hero-page {
-    
+
    background: linear-gradient(to bottom, rgb(0 0 0/o.5))center;
    background-size: cover;
    height: 4em;
@@ -71,7 +105,7 @@ nav {
 }
 
 .wrap-hero-page{
-    color:rgb(10, 0, 0);
+    color:white;
     padding: 1rem;
 }
 
@@ -81,6 +115,7 @@ nav {
     max-width: 75em;
     margin:3em auto;
     padding:1em;
+    background-color: rgb(245,225,206);
 }
 .wrap-two-column{
     display: grid;
@@ -104,7 +139,7 @@ textarea{
     width:fit-content;
     border:none;
     padding: .5rem 1rem;
-    background-color:rgb(172, 62, 122) ;
+    background-color:rgb(129, 62, 101); ;
     color: white;
     font-size: 1.1rem;
 }
