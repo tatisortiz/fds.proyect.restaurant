@@ -20,3 +20,128 @@ nav {
     transform: translate(-50%, -50%);
     text-shadow: 0 0 2em black;
 }
+
+.h3 {
+    background: black;
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+
+.plato span.precio {
+    float: right;
+    text-align: right;
+    vertical-align: baseline;
+    white-space: pre-line;
+}
+
+.small-middle-container{
+	margin: auto;
+	width: 25%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*pagina de contacto*/
+
+.hero-page {
+   background: linear-gradient(to bottom, rgb(0 0 0/o.5), rgb(0 0 0/o.5)), url(/img/copas.jpg) center;
+   background-size: cover;
+   height: 12em;
+   margin-top:5em;
+   display:flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.wrap-hero-page{
+    color:white;
+    padding: 1rem;
+
+}
+
+.section{
+    max-width: 75em;
+    margin:3em auto;
+    padding:1em;
+}
+.wrap-two-column{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 4rem;
+
+}
+
+.formulario {
+    display: flex;
+    flex-flow: column;
+}
+
+.formulario input,.formulario
+textarea{
+    margin: .5rem.0;
+    padding: .5rem.2rem;
+}
+
+.formulario button{
+    width:fit-content;
+    border:none;
+    padding: .5rem 1rem;
+    background-color:yellow ;
+    color: white;
+    font-size: 1.1rem;
+}
+
+@media (max-width:40em){
+    .wrap-two-column{
+    grid-template-columns: 1fr ;
+    }
+}
