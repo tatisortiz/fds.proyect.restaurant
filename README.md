@@ -10,7 +10,6 @@ Welcome to Taylor's website documentation. This website recreates a fictional re
 Table of contents 📂
 Stack ⚓
 Features 👾
-Live implementation 🌐
 Author ✒️
 Thanks 🎓
 Stack ⚓
@@ -36,4 +35,4 @@ Author ✒️
 Tatiana ortiz - FSD student
 GitHub
 Thanks 🎓
-A big thank you to the Geekshubs Academy for the opportunity to learn and grow as a developer, every day you get better, thank you for the o
+Many thanks to the Geekshubs Academy for the opportunity to learn and grow as a developer, every day you get better.
